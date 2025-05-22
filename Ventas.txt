@@ -1,0 +1,4 @@
+Codigo_Venta,Fecha_Veta,Descripcion_Producto,Cantidad 
+V''1,2024-05-21,Arroz 1kg,3
+V00,2024-05-22,Jabon de baño,2 
+V0032024-05-23,Aceite 750ml,1
